@@ -1,4 +1,4 @@
-# Astro Starter Kit: Basics
+# Cardpal Frontend
 
 ```sh
 npm create astro@latest -- --template basics
