@@ -1,5 +1,7 @@
 # Cardpal Frontend
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/04891a59-6181-4d77-ad43-77021bf1ab4f/deploy-status)](https://app.netlify.com/projects/cardpal/deploys)
+
 ```sh
 npm create astro@latest -- --template basics
 ```
