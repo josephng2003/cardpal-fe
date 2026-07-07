@@ -9,10 +9,16 @@ ignore:
         reason: "Transitive Netlify dependency with no upgrade path in current adapter version"
         expires: "2026-12-31T00:00:00.000Z"
   SNYK-JS-IMAGESIZE-17295814:
+    - "@astrojs/netlify@8.1.1 > @netlify/vite-plugin@2.12.8 > @netlify/dev-utils@4.4.6 > image-size@2.0.2":
+        reason: "Transitive Netlify dependency with no patched release available"
+        expires: "2026-12-31T00:00:00.000Z"
     - "@astrojs/netlify@8.1.1 > @netlify/blobs@10.7.9 > @netlify/dev-utils@4.4.6 > image-size@2.0.2":
         reason: "Transitive Netlify dependency with no patched release available"
         expires: "2026-12-31T00:00:00.000Z"
   SNYK-JS-IMAGESIZE-17295816:
+    - "@astrojs/netlify@8.1.1 > @netlify/vite-plugin@2.12.8 > @netlify/dev-utils@4.4.6 > image-size@2.0.2":
+        reason: "Transitive Netlify dependency with no patched release available"
+        expires: "2026-12-31T00:00:00.000Z"
     - "@astrojs/netlify@8.1.1 > @netlify/blobs@10.7.9 > @netlify/dev-utils@4.4.6 > image-size@2.0.2":
         reason: "Transitive Netlify dependency with no patched release available"
         expires: "2026-12-31T00:00:00.000Z"
