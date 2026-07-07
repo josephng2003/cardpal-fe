@@ -4,8 +4,11 @@ import { Input } from './ui/input'
 
 const Welcome = () => {
   const throwSentryError = () => {
-    console.log("Error")
-    logger('error', 'Error')
+    console.log('Error new')
+    logger('error', 'Error 2222')
+    logger('debug', 'Debug', {
+      text: 'Hello world'
+    })
   }
 
   return (
