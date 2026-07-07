@@ -12,7 +12,7 @@ const Welcome = () => {
     <>
       <Input placeholder='Email' />
       <Button>Login</Button>
-      <Button onClick={throwSentryError}>Throw test error</Button>
+      <Button onClick={throwSentryError}>Throw sentry test error</Button>
     </>
   )
 }
